@@ -1,13 +1,13 @@
 {
-  "name": "static-site",
+  "name": "nodejs-readme",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Francis Wilkinson",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^6.5.0"
   },
